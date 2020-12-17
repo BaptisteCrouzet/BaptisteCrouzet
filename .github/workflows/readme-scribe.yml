@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: 'feat: :sparkles: Update my README projects'
-          branch: main
+          branch: master
           commit_user_name: readme-scribe-bot 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe-bot 🤖 <actions@github.com>
