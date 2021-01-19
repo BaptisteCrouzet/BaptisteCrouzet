@@ -23,5 +23,3 @@ I'm also interested in new JavaScript frameworks such as VueJS, using Vuetify an
 
 - For professional contact my linkedin: https://fr.linkedin.com/in/baptiste-crouzet-bb550914a
 - More about me on my website: https://www.baptistecrouzet.fr
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="BaptisteCrouzet" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
