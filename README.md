@@ -12,9 +12,9 @@ I'm also interested in new JavaScript frameworks such as VueJS, using Vuetify an
 
 ### 🏁 Here you can find my public repositories on wich I contributed :
 
+- [BaptisteCrouzet/DarkTheme-The-New](https://github.com/BaptisteCrouzet/DarkTheme-The-New) - Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are lighters. (today)
 - [BaptisteCrouzet/Docker-for-Kosmood](https://github.com/BaptisteCrouzet/Docker-for-Kosmood) - A docker system for the Kosmood Ydays project. This system allow to launch a Symfony app with one of the latest PHP version, Nginx, MySQL and more ! (1 week ago)
-- [BaptisteCrouzet/Ref-em-all](https://github.com/BaptisteCrouzet/Ref-em-all) - Ref&#39;em all, site SEO en exercice des cours de référencemenT YNOV (1 month ago)
-- [BaptisteCrouzet/DarkTheme-The-New](https://github.com/BaptisteCrouzet/DarkTheme-The-New) - Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are lighters. (2 months ago)
+- [BaptisteCrouzet/Ref-em-all](https://github.com/BaptisteCrouzet/Ref-em-all) - Ref&#39;em all : a website made in order to exercise ourselves on SEO best practices. A project at Ynov School. (1 month ago)
 
 *I have many other ones, but private, sorry !*
 
