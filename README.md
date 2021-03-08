@@ -1,6 +1,6 @@
 ## Hey you, welcome 🙋‍♂️
 
-I'm a french and junior developer, specialized in the web.
+I'm a french and junior developper, specialized in the web.
 
 Yes when I say "web" I say Full-Stack : PHP, JS and integration.
 
