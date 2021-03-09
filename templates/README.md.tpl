@@ -13,6 +13,7 @@ I'm a VSCode lover too.
 
 {{range recentContributions 10}}
 * [{{.Repo.Name}}]({{.Repo.URL}})
+
     {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
