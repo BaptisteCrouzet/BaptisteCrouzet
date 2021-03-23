@@ -15,9 +15,9 @@ I'm a VSCode lover too.
 
 * [BaptisteCrouzet/Gulp-boilerplate](https://github.com/BaptisteCrouzet/Gulp-boilerplate) (2 weeks ago)<br>
     Boilerplate for gulp projects on simple static websites. Feel free to use and share it. Contributions are welcome !
-* [BaptisteCrouzet/DarkTheme-The-New](https://github.com/BaptisteCrouzet/DarkTheme-The-New) (2 weeks ago)<br>
+* [BaptisteCrouzet/DarkTheme-The-New](https://github.com/BaptisteCrouzet/DarkTheme-The-New) (3 weeks ago)<br>
     Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are lighters.
-* [BaptisteCrouzet/Tic-Tac-Toe](https://github.com/BaptisteCrouzet/Tic-Tac-Toe) (2 weeks ago)<br>
+* [BaptisteCrouzet/Tic-Tac-Toe](https://github.com/BaptisteCrouzet/Tic-Tac-Toe) (3 weeks ago)<br>
     Tictactoe, a school project This project was made in 2017 and is kept for historical reasons. My code don&#39;t look like this project now, look at my more recent repositories !
 * [BaptisteCrouzet/Docker-for-Kosmood](https://github.com/BaptisteCrouzet/Docker-for-Kosmood) (1 month ago)<br>
     A docker system for the Kosmood Ydays project. This system allow to launch a Symfony app with one of the latest PHP version, Nginx, MySQL and more !
