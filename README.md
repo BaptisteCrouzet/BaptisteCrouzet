@@ -17,7 +17,7 @@ I'm a VSCode lover too.
     Ref&#39;Em All : A website made in order to exercise ourselves on SEO best practices. A project at Ynov School. As a fake SEO agency we had to make a site very SEO friendly.
 * [BaptisteCrouzet/Docker-Static-Simple-Site](https://github.com/BaptisteCrouzet/Docker-Static-Simple-Site) (3 months ago)<br>
     A basic docker configuration in order to set up a nginx and php-fpm server. It allow us to get a lets-encrypt SSL certificate via certbot too.
-* [BaptisteCrouzet/DarkTheme-The-New](https://github.com/BaptisteCrouzet/DarkTheme-The-New) (3 months ago)<br>
+* [BaptisteCrouzet/DarkTheme-The-New](https://github.com/BaptisteCrouzet/DarkTheme-The-New) (4 months ago)<br>
     Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are lighters.
 * [BaptisteCrouzet/Gulp-boilerplate](https://github.com/BaptisteCrouzet/Gulp-boilerplate) (4 months ago)<br>
     Boilerplate for gulp projects on simple static websites. Feel free to use and share it. Contributions are welcome !
