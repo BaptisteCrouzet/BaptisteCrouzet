@@ -21,7 +21,7 @@ I'm a VSCode lover too.
     Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are lighters.
 * [BaptisteCrouzet/Gulp-boilerplate](https://github.com/BaptisteCrouzet/Gulp-boilerplate) (10 months ago)<br>
     Boilerplate for gulp projects on simple static websites. Feel free to use and share it. Contributions are welcome !
-* [BaptisteCrouzet/Tic-Tac-Toe](https://github.com/BaptisteCrouzet/Tic-Tac-Toe) (11 months ago)<br>
+* [BaptisteCrouzet/Tic-Tac-Toe](https://github.com/BaptisteCrouzet/Tic-Tac-Toe) (1 year ago)<br>
     Tictactoe, a school project This project was made in 2017 and is kept for historical reasons. My code don&#39;t look like this project now, look at my more recent repositories !
 
 *I have many other ones, but private, sorry !*
